@@ -27,3 +27,4 @@ for album in album_repository.select_all():
 pdb.set_trace()
 
 
+Random
