@@ -9,3 +9,4 @@ import repositories.artist_repository as artist_repository
 
 artist_1 = Artist("Mark")
 artist_repository.save(artist_1)
+
